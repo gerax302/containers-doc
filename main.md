@@ -1,4 +1,6 @@
-# Docker
+---
+title: Docker
+---
 
 ## Introduction to Docker 
 
@@ -28,7 +30,7 @@
 * Upgrading and updating Docker
 * Sizing guidelines for upgrades
 * Guides
-* 
+ 
 ## Administrative and operational tasks in Docker 
 
 * Docker commands
