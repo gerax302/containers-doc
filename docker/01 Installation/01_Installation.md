@@ -54,6 +54,12 @@
 
 - Run nativelly, the best option for using Docker.
   Download [here](https://docs.docker.com/install/)
+- Alternative way, using the script: 
+  ```
+  $ curl -fsSL https://get.docker.com -o get-docker.sh
+  $ sh get-docker.sh
+  ```
+- **Note:** Do not use the default package of the SO, most of the times these packages are outdated.
 
 ### Docker For Mac
 
