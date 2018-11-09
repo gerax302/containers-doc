@@ -5,7 +5,7 @@ The intention of this repo is to show the documentation gathered throug some pag
 
 We also have links for trainings to make of this a great learning experience.
 
-[Docker Main page](main.md)
+[Docker Main page](docker/main.md)
 
 
 **Note**If you want to see the official documentation, go to the [Docker Docs Page.](https://docs.docker.com)
